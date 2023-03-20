@@ -1,2 +1,2 @@
 # solidity-todolist-nextjs
-View the app [here](https://solidity-todo-list-with-nextjs-tailwind-css-template.yashjagtap.repl.co/)
+View the app [here](https://github.com/yash251/solidity-todolist-nextjs.git)
