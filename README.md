@@ -1,2 +1,2 @@
 # solidity-todolist-nextjs
-View the app [here](https://github.com/yash251/solidity-todolist-nextjs.git)
+View the app [here](https://solidity-todolist-nextjs.vercel.app/)
