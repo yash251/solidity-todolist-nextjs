@@ -36,7 +36,7 @@ export default function Home() {
         return;
       }
       let chainId = await ethereum.request({ method: 'eth_chainId' });
-      console.log('Connected to the chain', chainId);
+      console.log('Connected to the chain', chainId); //5
 
       const goerliChainId = '0x5';
       if (chainId !== goerliChainId) {
