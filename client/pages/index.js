@@ -38,9 +38,9 @@ export default function Home() {
       let chainId = await ethereum.request({ method: 'eth_chainId' });
       console.log('Connected to the chain', chainId);
 
-      const rinkebyChainId = '0x4';
-      if (chainId !== rinkebyChainId) {
-        alert('You are not connected to Rinkeby Testnet');
+      const goerliChainId = '0x5';
+      if (chainId !== goerliChainId) {
+        alert('You are not connected to Goerli Testnet');
         setCorrectNetwork(false);
         return;
       }
