@@ -1,7 +1,7 @@
 const WrongNetworkMessage = () => <div className='flex flex-col justify-center items-center mb-20 font-bold text-2xl gap-y-3'>
-  {/* Prompt to change network to Rinkeby */}
+  {/* Prompt to change network to Goerli */}
   <div>----------------------------------------</div>
-  <div>Please connect to the Rinkeby Testnet</div>
+  <div>Please connect to the Goerli Testnet</div>
   <div>and reload the page</div>
   <div>----------------------------------------</div>
 </div>
